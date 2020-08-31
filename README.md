@@ -1,7 +1,5 @@
 # MNIST-Handwritten-digit-classification
 <h3>Using Python and CNN to take 28 x 28 pixels MNIST images and classify them into digits from 0-9 with the help of Tensorflow.</h3>
-
-<br/>
 <h3>Libraries Required:<br/></h3>
 • Tensorflow <br/>
 • Matplotlib<br/>
