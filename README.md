@@ -7,4 +7,4 @@
 <br/>
 A python program which takes input of 28 x 28 pixels images from MNIST dataset of around 60000 images and trains and classifies them using Tensorflow and sequential model of Keras.
 The images are visualized using matplotlib library's argmax function. 
-The function simply averages the values of 784 neurons of the array of the image and vizualizes it. It was performed on Jupyter Notebook and the corresponding ipynb file is attached as well.
+The function simply averages the values of 784 neurons of the array of the image and vizualizes it. It was performed on Jupyter Notebook and the corresponding ipynb file along with trained model is attached as well.
